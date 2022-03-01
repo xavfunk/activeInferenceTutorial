@@ -16,6 +16,8 @@ empirical data, Smith et al. 2022
 - [] have a look at marginal message passing https://www.nature.com/articles/s41598-018-38246-3
 - [] make Message_passing_example.m work in python
 - [] play with it and understand it
+- [] implement Step_by_Step_AI_tutorial
+- [] make mindmap about the setup with all the matrices
 
 ## resources
 https://github.com/infer-actively/pymdp
